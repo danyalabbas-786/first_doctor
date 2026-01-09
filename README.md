@@ -19,7 +19,7 @@ Get awareness about antibiotic resistance
 ⚠️ This app is not a diagnostic tool.
 It is an educational and awareness-based system.
 
-🎯 Objectives
+ Objectives
 
 ✅ Reduce antibiotic misuse
 
@@ -33,7 +33,7 @@ It is an educational and awareness-based system.
 
 ✅ Visualize risk trends using charts
 
-❗ Problem Statement
+ Problem Statement
 
 In many regions, antibiotics are:
 
@@ -45,15 +45,15 @@ Not completed as prescribed
 
 This leads to:
 
-❌ Antibiotic resistance
+ Antibiotic resistance
 
-❌ Treatment failure
+ Treatment failure
 
-❌ Public health risk
+ Public health risk
 
 There is a strong need for a digital awareness and guidance platform.
 
-💡 Proposed Solution
+ Proposed Solution
 
 This app provides:
 
@@ -71,7 +71,7 @@ This app provides:
 
 📈 Graphical Risk Visualization
 
-🧠 Methodology
+ Methodology
 🔹 Development
 
 Flutter (Dart)
@@ -181,6 +181,6 @@ This project provides a simple yet effective digital solution to address antibio
 👨‍🎓 Developer
 
 Danyal Abbas
-🎓 Final Year Project
-📚 Forensic / Bioinformatics / Health Informatics
+📚 Forensic Science / Bioinformatics / Health Informatics
 🏫 Government College University Faisalabad
+Email Address: danyalgcuf@gmail.com
