@@ -2,7 +2,7 @@
 
 A Flutter-based mobile application designed to promote safe antibiotic usage, provide symptom-based risk assessment, and spread public health awareness to reduce antibiotic misuse and resistance.
 
-📱 About the App
+ About the App
 
 This application helps users:
 
@@ -57,19 +57,19 @@ There is a strong need for a digital awareness and guidance platform.
 
 This app provides:
 
-🩺 Symptom Selection System
+ Symptom Selection System
 
-📊 Risk Level Assessment (Low / Medium / High)
+ Risk Level Assessment (Low / Medium / High)
 
-💊 Antibiotic Guidance
+ Antibiotic Guidance
 
-🚑 First-Aid Recommendations
+ First-Aid Recommendations
 
-📚 Awareness & Educational Content
+ Awareness & Educational Content
 
-👤 User Profile (Login / Signup)
+ User Profile (Login / Signup)
 
-📈 Graphical Risk Visualization
+ Graphical Risk Visualization
 
  Methodology
 🔹 Development
@@ -96,7 +96,7 @@ Local state management
 
 Simple and fast processing
 
-🏗️ Application Workflow
+ Application Workflow
 Login / Signup
       ↓
 User Profile
@@ -111,25 +111,25 @@ Home Dashboard
       ↓
 Guidance & Recommendations
 
-🧪 Features
+ Features
 
-🔐 User Authentication (Login / Signup)
+ User Authentication (Login / Signup)
 
-👤 Profile Management
+ Profile Management
 
-🤒 Multiple Symptoms & Diseases
+ Multiple Symptoms & Diseases
 
-💊 Antibiotic Recommendation Logic
+ Antibiotic Recommendation Logic
 
-🚫 Self-medication Warnings
+ Self-medication Warnings
 
-📊 Interactive Charts (fl_chart)
+ Interactive Charts (fl_chart)
 
-🎨 Beautiful UI with Logo
+ Beautiful UI with Logo
 
-📱 Fully Mobile Responsive
+ Fully Mobile Responsive
 
-🛠️ Technologies Used
+ Technologies Used
 
 Flutter
 
@@ -141,7 +141,7 @@ fl_chart
 
 Android SDK
 
-📂 Project Structure
+ Project Structure
 lib/
  ├── main.dart
 assets/
@@ -162,25 +162,27 @@ assets/logo.png exists
 
 Flutter SDK is installed correctly
 
-🌍 Future Enhancements
+ Future Enhancements
 
-🔗 Firebase Authentication
+ Firebase Authentication
 
-☁️ Cloud database
+ Cloud database
 
-🏥 Doctor consultation module
+ Doctor consultation module
 
-🌐 Multilingual support
+ Multilingual support
 
-🤖 AI-based disease prediction
+ AI-based disease prediction
 
-📌 Conclusion
+ Conclusion
 
 This project provides a simple yet effective digital solution to address antibiotic misuse by combining education, risk assessment, and interactive design. It supports public health awareness and promotes responsible antibiotic use.
 
 👨‍🎓 Developer
 
 Danyal Abbas
-📚 Forensic Science / Bioinformatics / Health Informatics
-🏫 Government College University Faisalabad
-Email Address: danyalgcuf@gmail.com
+ Forensic Science / Bioinformatics / Health Informatics
+ Government College University Faisalabad
+
+Email Address:
+danyalgcuf@gmail.com
