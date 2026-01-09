@@ -1,123 +1,186 @@
-Antibiotic Awareness & Risk Assessment App
+🧬 Antibiotic Awareness & Risk Assessment App
 
-A Flutter-based mobile application designed to promote responsible antibiotic use, provide digital first-aid guidance, and help reduce the growing problem of antimicrobial resistance (AMR).
+A Flutter-based mobile application designed to promote safe antibiotic usage, provide symptom-based risk assessment, and spread public health awareness to reduce antibiotic misuse and resistance.
 
- Introduction
+📱 About the App
 
-Antibiotic misuse is one of the major global health challenges, leading to antimicrobial resistance. Many people use antibiotics without prescriptions, especially for viral infections where antibiotics are ineffective.
+This application helps users:
 
-This app provides symptom-based risk assessment, first-aid guidance, and educational awareness through a simple and interactive mobile platform.
+Understand common symptoms & diseases
+
+Identify whether antibiotics are required or not
+
+Learn first-aid guidance
+
+Avoid self-medication
+
+Get awareness about antibiotic resistance
+
+⚠️ This app is not a diagnostic tool.
+It is an educational and awareness-based system.
 
 🎯 Objectives
 
-Educate users about correct antibiotic usage
+✅ Reduce antibiotic misuse
 
-Prevent self-medication and antibiotic misuse
+✅ Educate users about viral vs bacterial infections
 
-Differentiate viral vs bacterial infections
+✅ Provide symptom-based risk categorization
 
-Provide symptom-based risk evaluation
+✅ Promote antibiotic awareness
 
-Offer first-aid and antibiotic guidance
+✅ Support public health education
 
-Promote doctor consultation when necessary
+✅ Visualize risk trends using charts
 
-🚨 Problem Statement
+❗ Problem Statement
 
-Unregulated use of antibiotics without prescriptions
+In many regions, antibiotics are:
 
-Lack of awareness about antibiotic resistance
+Taken without prescription
 
-Misuse of antibiotics for viral diseases
+Used for viral infections
 
-Absence of quick digital health guidance
+Not completed as prescribed
 
-🛠️ Methodology
-Technology Stack
+This leads to:
 
-Flutter (Cross-platform framework)
+❌ Antibiotic resistance
 
-Dart programming language
+❌ Treatment failure
 
-Material UI
+❌ Public health risk
 
-fl_chart (Data visualization)
+There is a strong need for a digital awareness and guidance platform.
 
-System Design
+💡 Proposed Solution
 
-Modular screen-based architecture
+This app provides:
 
-User-friendly UI with gradient themes
+🩺 Symptom Selection System
 
-Card-based navigation
+📊 Risk Level Assessment (Low / Medium / High)
 
-Secure user profile handling
+💊 Antibiotic Guidance
 
-✨ Key Features
+🚑 First-Aid Recommendations
 
- Login & Signup System
+📚 Awareness & Educational Content
 
-👤 User Profile Integration
+👤 User Profile (Login / Signup)
 
-🩺 Symptoms & Risk Assessment
+📈 Graphical Risk Visualization
 
-💊 First-Aid & Antibiotic Guidance
+🧠 Methodology
+🔹 Development
 
-📚 Antibiotic Awareness Section
+Flutter (Dart)
 
-📊 Graphical Risk Visualization
+Android platform
 
-🎨 Modern UI with App Logo
+🔹 UI/UX
 
-📱 Application Workflow
+Material Design
+
+Gradient backgrounds
+
+Card-based layout
+
+Interactive buttons
+
+🔹 Logic
+
+Rule-based symptom evaluation
+
+Local state management
+
+Simple and fast processing
+
+🏗️ Application Workflow
 Login / Signup
       ↓
 User Profile
       ↓
 Home Dashboard
- ┌──────────────┬──────────────┬──────────────┐
- │ Symptoms &   │ Antibiotic   │ Risk Graphs  │
- │ Risk Check   │ Awareness    │ Visualization│
- └──────────────┴──────────────┴──────────────┘
+ ┌───────────────────────────────┐
+ │ Symptoms & Risk Assessment    │
+ │ Antibiotic Awareness          │
+ │ Risk Graphs                   │
+ │ User Profile                  │
+ └───────────────────────────────┘
       ↓
-First-Aid & Antibiotic Guidance
+Guidance & Recommendations
 
-📊 Results & Outcomes
+🧪 Features
 
-Increased awareness of antibiotic misuse
+🔐 User Authentication (Login / Signup)
 
-Improved decision-making for common symptoms
+👤 Profile Management
 
-Encourages responsible healthcare behavior
+🤒 Multiple Symptoms & Diseases
 
-Easy-to-use interface for general public
+💊 Antibiotic Recommendation Logic
 
-🚀 Future Work
+🚫 Self-medication Warnings
 
-🌐 Multi-language support (English / Urdu)
+📊 Interactive Charts (fl_chart)
 
-🧑‍⚕️ Doctor appointment integration
+🎨 Beautiful UI with Logo
 
-🧾 User history & reports
+📱 Fully Mobile Responsive
 
-🔔 Awareness notifications
-
-🤖 AI-based symptom analysis
-
-🧪 Technologies Used
+🛠️ Technologies Used
 
 Flutter
 
 Dart
 
-Material Design
+Material UI
+
+fl_chart
 
 Android SDK
 
-fl_chart Package
+📂 Project Structure
+lib/
+ ├── main.dart
+assets/
+ └── logo.png
+pubspec.yaml
+README.md
 
-🧑‍🎓 Developer
+▶️ How to Run
+flutter pub get
+flutter run
+
+
+Make sure:
+
+Android device is authorized
+
+assets/logo.png exists
+
+Flutter SDK is installed correctly
+
+🌍 Future Enhancements
+
+🔗 Firebase Authentication
+
+☁️ Cloud database
+
+🏥 Doctor consultation module
+
+🌐 Multilingual support
+
+🤖 AI-based disease prediction
+
+📌 Conclusion
+
+This project provides a simple yet effective digital solution to address antibiotic misuse by combining education, risk assessment, and interactive design. It supports public health awareness and promotes responsible antibiotic use.
+
+👨‍🎓 Developer
 
 Danyal Abbas
-Final Year Project (FYP)
-Government College University Faisalabad
+🎓 Final Year Project
+📚 Forensic / Bioinformatics / Health Informatics
+🏫 Government College University Faisalabad
